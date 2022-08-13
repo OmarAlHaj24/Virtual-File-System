@@ -1,0 +1,2 @@
+root/folder2,ahmed,10,bora3y,11
+root/folder1,ahmed,10,bora3y,11
